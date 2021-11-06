@@ -193,3 +193,31 @@ ul li{
 
 /* ---------------- container-1 ------------------- */
 
+.foto-container{
+    display: inline-block;
+    background-image: url("../img/partner.png");
+    background-size: cover;
+    width: 600px;
+    height: 500px;
+    margin-top: 200px;
+}
+
+
+
+.testo-2{
+    width: 550px;
+    display: inline-block;
+    margin: 40px 0 0 650px;
+}
+
+.testo-piccolo{
+    font-size: 20px;
+}
+
+.bottone-bianco{
+    margin-top: 30px;
+    border: grey 2px solid;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+}
