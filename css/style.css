@@ -7,6 +7,10 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+a{
+    color: rgb(0, 86, 246);
+}
 /* --------------header-------------- */
 .container {
     width: 1600px;
@@ -95,7 +99,9 @@ nav ul li{
 .absolute{
     position: absolute;
 }
+
 /* --------------- end header------------------ */
+/* ---------------- container-1 ------------------- */
 
 .container-1{
     margin: 0 auto;
@@ -103,6 +109,21 @@ nav ul li{
     width: 1200px;
     height: 1100px;
 }
+
+input{
+    appearance: none;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #999;
+    transition: 0.2s all linear;
+    margin-right: 5px;
+    position: relative;
+    top: 4px;
+    }
+    input:checked {
+    border: 6px solid #0063FF;
+    }
 
 .main{
     border: rgb(199, 199, 199) 1px solid;
@@ -162,7 +183,6 @@ ul li{
     color: rgb(0, 86, 246);
 }
 
-
 .box-2{
     width: 1200px;
     height: 40px;
@@ -191,7 +211,6 @@ ul li{
     width: 350px;
 }
 
-/* ---------------- container-1 ------------------- */
 
 .foto-container{
     display: inline-block;
@@ -221,3 +240,129 @@ ul li{
     text-align: center;
     padding: 10px;
 }
+
+/* ---------------- end container-1 ------------------- */
+/*--------------------- dropbox business---------------------- */
+
+.top-space{
+    margin-top: 150px;
+}
+
+.img-box{
+    width: 300px;
+    height: 240px;
+    position: relative;
+}
+
+.card {
+    display: inline-block;
+    width: 380px;
+    height: 250px;
+    position: relative;
+    padding: 50px 50px 0 0;
+}
+
+.sottolineato{
+    text-decoration: underline;
+}
+
+/* ----------------------------- end dropbox business ------------------------- */
+/*-------------------------------- partners----------------------------- */
+
+.container-big-2{
+    width: 1600px;
+    margin: 30px;
+}
+
+.container-partners{
+    margin-top: 200px;
+    width: 450px;
+    text-align: left;
+}
+
+.row-space{
+    margin-top: 30px;
+}
+
+.left-box{
+    width: 300px;
+    height: 300px;
+}
+
+.middle-box{
+    width: 600px;
+    height: 300px;
+    background-color: rgb(235, 235, 235);
+}
+
+.right-box{
+    width: 300px;
+    height: 300px;
+}
+
+.box-partner{
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    float: left;
+}
+
+.partner svg{
+    fill: white;
+    width: 100px;
+    height: 150px;
+}
+
+.n-1{
+    background-color: rgb(142, 214, 113);
+}
+
+.n-2{
+    background-color: rgb(151, 30, 30);
+}
+
+.n-3{
+    background-color: rgb(50, 173, 255);
+}
+
+.problem{
+    filter: invert(100%);
+}
+
+.n-4{
+    background-color: red;
+}
+
+.design-logo{
+    width: 150px;
+    height: 60px;
+    margin: 25px 0 20px 40px;
+}
+
+.line-2{
+    width: 60px;
+    margin-left: 40px;
+    color: rgb(190, 189, 189);
+}
+
+.text-space{
+    margin: 25px 40px;
+    font-size: 15px;
+}
+
+.n-5{
+    background-color: rgb(160, 204, 240);
+}
+
+.n-6{
+    background-color: rgb(0, 0, 200);
+}
+
+.n-7{
+    background-color: rgb(255, 230, 0);
+}
+
+
+
