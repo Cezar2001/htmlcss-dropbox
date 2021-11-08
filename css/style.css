@@ -211,7 +211,6 @@ ul li{
     width: 350px;
 }
 
-
 .foto-container{
     display: inline-block;
     background-image: url("../img/partner.png");
@@ -220,8 +219,6 @@ ul li{
     height: 500px;
     margin-top: 200px;
 }
-
-
 
 .testo-2{
     width: 550px;
@@ -271,7 +268,7 @@ ul li{
 
 .container-big-2{
     width: 1600px;
-    margin: 30px;
+    margin: 0 auto;
 }
 
 .container-partners{
@@ -285,23 +282,23 @@ ul li{
 }
 
 .left-box{
-    width: 300px;
+    width: 400px;
     height: 300px;
 }
 
 .middle-box{
-    width: 600px;
+    width: 800px;
     height: 300px;
     background-color: rgb(235, 235, 235);
 }
 
 .right-box{
-    width: 300px;
+    width: 400px;
     height: 300px;
 }
 
 .box-partner{
-    width: 150px;
+    width: 200px;
     height: 150px;
     vertical-align: middle;
     text-align: center;
@@ -362,6 +359,28 @@ ul li{
 
 .n-7{
     background-color: rgb(255, 230, 0);
+}
+
+.box-big{
+    width: 1600px;
+    height: 200px;
+    background-color:rgb(160, 204, 240);
+}
+
+.testo-centrale{
+    margin: 55px 220px;
+    
+}
+
+.box-white{
+    background-color: rgb(255, 255, 255);
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.colore-testo{
+    color: rgb(126, 25, 25);
+    width: 400px;
 }
 
 
