@@ -283,23 +283,23 @@ ul li{
 
 .left-box{
     width: 400px;
-    height: 300px;
+    height: 400px;
 }
 
 .middle-box{
     width: 800px;
-    height: 300px;
+    height: 400px;
     background-color: rgb(235, 235, 235);
 }
 
 .right-box{
     width: 400px;
-    height: 300px;
+    height: 400px;
 }
 
 .box-partner{
     width: 200px;
-    height: 150px;
+    height: 200px;
     vertical-align: middle;
     text-align: center;
     display: inline-block;
@@ -309,7 +309,7 @@ ul li{
 .partner svg{
     fill: white;
     width: 100px;
-    height: 150px;
+    height: 200px;
 }
 
 .n-1{
@@ -345,8 +345,7 @@ ul li{
 }
 
 .text-space{
-    margin: 25px 40px;
-    font-size: 15px;
+    margin: 45px 40px;
 }
 
 .n-5{
@@ -368,8 +367,7 @@ ul li{
 }
 
 .testo-centrale{
-    margin: 55px 220px;
-    
+    margin: 55px 220px; 
 }
 
 .box-white{
